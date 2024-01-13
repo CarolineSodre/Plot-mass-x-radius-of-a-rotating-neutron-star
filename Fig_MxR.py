@@ -6,7 +6,6 @@ import pandas
 import matplotlib.pyplot as plt
 
 from numpy import *
-from pylab import *
 from matplotlib import rc
 
 # Enable usage of real TeX for labels and captions
