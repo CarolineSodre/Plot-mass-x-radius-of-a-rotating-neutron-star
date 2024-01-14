@@ -3,4 +3,4 @@ Sequences of equilibrium configurations (Mass x Radius plot) following the KDE0v
 
 ![image](https://github.com/CarolineSodre/Plot-mass-x-radius-of-a-rotating-neutron-star/assets/121108744/c075e066-bf8a-4382-bf6d-4534427988b6)
 
-Plot generated using the libraries: Scipy, Math, Numpy, Pandas, Numpy and Matplotlib.
+Plot generated using the libraries: Scipy, Math, Numpy, Pandas and Matplotlib.
